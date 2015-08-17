@@ -2,6 +2,8 @@
 
 Usage: run python on rtmbot.py in the SlackBot folder and python Spockbot.py in separate windows.  
 
+![Screenshot](https://i.imgur.com/HMzoJdw.png)
+
 Requires: pyslack-real python-slackclient python-rtmbot and SpockBotMC
 
 You can install these by running:

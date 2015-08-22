@@ -10,7 +10,7 @@ You can install these by running:
 
 ```pip install pyslack-real python-slackclient python-rtmbot
 
-***Spockbot will need to be installed by itself, as it does not have any package (yet).***```
+NOTE: Spockbot will need to be installed by itself, as it does not have any package (yet).```
 
 See http://github.com/spockbotmc/spockbot for installation instructions. 
 

@@ -1,0 +1,9 @@
+slackapitoken: slackAPItoken
+channel: slackchannelID
+mcemail: steve@mojang.com
+mcpass: minecraftpassword
+broadcastgroup: groupbottalksinto
+antiafkgroup: AntiAFKspamchatgroup
+avoidedphrases:
+    - You have changed to groupchat
+    - AntiAFK
